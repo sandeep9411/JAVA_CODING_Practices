@@ -10,7 +10,7 @@ public class Armstrong_number {
 
         System.out.println("Enter the number");
 
-        int num=sc.nextInt();
+        int num=143;
 
         int temp =num , sum=0;
 
